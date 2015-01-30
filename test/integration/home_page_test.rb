@@ -1,3 +1,5 @@
+require 'test_helper'
+
 # Feature: Home page
 #   As a visitor
 #   I want to visit a home page
